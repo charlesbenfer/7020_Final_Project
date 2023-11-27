@@ -1,11 +1,11 @@
 {
     "id": "E37EF904",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/7020_Final_Project/rule_change_code.R",
+    "project_path": "rule_change_code.R",
     "type": "r_source",
     "hash": "3793862836",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1701040410998.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 2353642078210,
-    "encoding": "",
+    "lastKnownWriteTime": 1701053138,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1701052789042,
+    "last_content_update": 1701053138806,
     "read_only": false,
     "read_only_alternatives": []
 }
